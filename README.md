@@ -50,11 +50,15 @@
 
 
 <h2>📦 Assets</h2>
+
+<p>
  -UI Design criado para o evento: <a href="https://www.figma.com/file/02eLp1LEMaZNbolCNBSyKA/Delivery-App?node-id=4777%3A233&t=dfYp5FJNF7u9f2FC-1">**App Delivery📱**</a>
  - Fonts de texto : <a href="https://drive.google.com/file/d/1pOU2LEhodnJmK2jzwJWcfsMNpCl6T7JQ/view?usp=share_link
 ">**fonts
  - JSON do <a href="https://drive.google.com/file/d/1T87zMkOjIGl9-pUppl7ke5CwNNaQg_50/view?usp=share_link">**`Postman Collection`**</a>
  - Backend <a href="https://drive.google.com/file/d/1XNCH9Uqs0wsBou6gPX1TQMfxNDEDCwCX/view?usp=share_link">**`backend`**</a> ``` jrs run ```
+</p>
+
 
 ---
 
@@ -83,8 +87,9 @@
 
 <h2>🤯 Desafios e Aprendizados ao longo do caminho</h2>
 
+<p>
     Essa foi sem dúvidas uma semana intensa, pra mim não foi facil criar um aplicativo ponta aponta com apenas 1 mês e meio de estudos, tive diversas dificuldades, alguns assuntos tradados durante o código eu apenas digitava, mas sem entender muito do que estava acontecendo, por esse motivo, aulas que eram de apenas duas horas por dia, para mim se tornavam no mínimo 7, por ter que parar a aula e ir entender sobre o assunto. Minha maior dificuldade foi entender o gerenciamento de estado com Bloc, já que não fazia ideia do que e tratava, apenas conhecia o gerenciamento de estado nativo do proprio flutter com o change notifier ou setState. Além disso pude rever diversos conceitos de orinetação a Objetos, os quais pude relembrar os tempos acadêmico de quando programava em Java. ainda Pude evoluir muitos com meus estudos de flutter e dart os quais eram meus objetivos ao participar do evento.
-
+</p>
 ---
 
 <h2>🤔 Como usar</h2>
