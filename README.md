@@ -51,13 +51,11 @@
 
 <h2>📦 Assets</h2>
 
-<p>
- -UI Design criado para o evento: <a href="https://www.figma.com/file/02eLp1LEMaZNbolCNBSyKA/Delivery-App?node-id=4777%3A233&t=dfYp5FJNF7u9f2FC-1">**App Delivery📱**</a>
- - Fonts de texto : <a href="https://drive.google.com/file/d/1pOU2LEhodnJmK2jzwJWcfsMNpCl6T7JQ/view?usp=share_link
+- UI Design criado para o evento: <a href="https://www.figma.com/file/02eLp1LEMaZNbolCNBSyKA/Delivery-App?node-id=4777%3A233&t=dfYp5FJNF7u9f2FC-1">**App Delivery📱**</a>
+- Fonts de texto : <a href="https://drive.google.com/file/d/1pOU2LEhodnJmK2jzwJWcfsMNpCl6T7JQ/view?usp=share_link
 ">**fonts
- - JSON do <a href="https://drive.google.com/file/d/1T87zMkOjIGl9-pUppl7ke5CwNNaQg_50/view?usp=share_link">**`Postman Collection`**</a>
- - Backend <a href="https://drive.google.com/file/d/1XNCH9Uqs0wsBou6gPX1TQMfxNDEDCwCX/view?usp=share_link">**`backend`**</a> ``` jrs run ```
-</p>
+- JSON do <a href="https://drive.google.com/file/d/1T87zMkOjIGl9-pUppl7ke5CwNNaQg_50/view?usp=share_link">**`Postman Collection`**</a>
+- Backend <a href="https://drive.google.com/file/d/1XNCH9Uqs0wsBou6gPX1TQMfxNDEDCwCX/view?usp=share_link">**`backend`**</a> ``` jrs run ```
 
 
 ---
