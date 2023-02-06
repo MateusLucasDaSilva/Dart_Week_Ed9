@@ -37,11 +37,11 @@
 <h2>📱 Preview</h2>
 
 
-<h1 align="center">
+<p align="center">
 
 https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1-a886-8bd7fa95e333.mp4
 
-</h1>
+</p>
 
 
 
