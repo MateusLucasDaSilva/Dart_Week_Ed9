@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets\images\logo.png" width="100" alt="Logo App Filmes"/>
+    <img src="assets\images\logo.png" width="200" alt="Logo App Filmes"/>
 </p>
 
 <h1 align="center">App Delivery</h1>
