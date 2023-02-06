@@ -44,6 +44,8 @@ https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1
 </p>
 
 
+<img src="[.github/App-Filmes-Demo.gif](https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1-a886-8bd7fa95e333.mp4)" width="400" alt="App Filmes Demonstração">
+
 ---
 <h2>🛠️ Tecnologias Utilizadas no Projeto</h2>
   - Flutter: 3.3.10
