@@ -37,7 +37,11 @@
 <h2>📱 Preview</h2>
 
 
-<p align="center">https://user-images.githubusercontent.com/101568163/217067951-aaeefc98-e1fa-4b9b-99ae-ce11f21add5c.mp4</p>
+<p align="center">
+
+https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1-a886-8bd7fa95e333.mp4
+
+</p>
 
 
 ---
