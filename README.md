@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets\images\logo.png" width="100" alt="Logo App Filmes"/>
+    <img src="assets\images\logo.png" width="300" alt="Logo App Filmes"/>
 </p>
 
 <h1 align="center">App Delivery</h1>
@@ -36,7 +36,14 @@
 
 <h2>📱 Preview</h2>
 
-<p> </p>
+
+<p align="center">
+
+https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1-a886-8bd7fa95e333.mp4
+
+</p>
+
+
 
 
 ---
@@ -131,6 +138,8 @@
 
 <h2>📝 Certificado</h2>
 
+![](https://user-images.githubusercontent.com/101568163/217027852-76333a2c-2724-472c-aa58-ddf27d6ae90b.jpg)
+[certificado.pdf](https://github.com/MateusLucasDaSilva/Dart_Week_Ed9/files/10665122/certificado.pdf)
 
 
 ---
