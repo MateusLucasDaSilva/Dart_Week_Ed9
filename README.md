@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1
    https://flutter.dev/docs/get-started/install
 
    - Clone o repositório:
-   $ git clone https://github.com/MateusLucasDaSilva/Dart_Week_Ed9.git Dart_Week_Ed9
+   $ git clone https://github.com/MateusLucasDaSilva/Dart_Week_Ed9.git
 
    - Entre no diretório:
    $ cd Dart_Week_Ed9
