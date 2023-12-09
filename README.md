@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/101568163/217069071-b96d3678-b20e-45e1
 
 - Consulta da API Json Rest Server usando o package json_rest_server
 - BLoc como Gerenciamento de Estado
-- Provider como controle de Rotas
+- Provider como injeção de dependências
 - Postman Collections: API de Desenvolvimento e Testes
 - Fluxo de Login e Logout com a aplicação
 - Themes
